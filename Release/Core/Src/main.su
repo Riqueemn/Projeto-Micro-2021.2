@@ -1,0 +1,4 @@
+main.c:70:6:digitalWrite	0	static
+main.c:189:6:SystemClock_Config	72	static,ignoring_inline_asm
+main.c:74:5:main	32	static,ignoring_inline_asm
+main.c:285:6:Error_Handler	0	static,ignoring_inline_asm
